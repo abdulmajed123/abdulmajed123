@@ -4,14 +4,22 @@
 
 
 
-- 🔭 I’m currently working on A MERN-based fullstack project. 
-- 🌱 I’m currently learning JavaScript, React, Node.js, Express.js, MongoDB, REST APIs, and authentication (JWT & Firebase). 
-- 👯 I’m looking to collaborate on Beginner-friendly MERN projects, React components, or open-source contributions. 
-- 🤔 I’m looking for help with Improving backend logic, API security, and best practices in fullstack development. 
-- 💬 Ask me about JavaScript basics, React components, TailwindCSS, Firebase Authentication, and building simple APIs. 
-- 📫 How to reach me: abdulmajed5618@gmail.com 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I break code fast, but I fix it even faster 😄 
+
+
+  # 💫 About Me:
+🔭 I’m currently working on A MERN-based fullstack project.<br>🌱 I’m currently learning JavaScript, React, Node.js, Express.js, MongoDB, REST APIs, and authentication (JWT & Firebase).<br>👯 I’m looking to collaborate on Beginner-friendly MERN projects, React components, or open-source contributions.<br>🤔 I’m looking for help with Improving backend logic, API security, and best practices in fullstack development.<br>💬 Ask me about JavaScript basics, React components, TailwindCSS, Firebase Authentication, and building simple APIs.<br>📫 How to reach me: abdulmajed5618@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I break code fast, but I fix it even faster 😄
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abdulmajed123&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abdulmajed123&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmajed123&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=abdulmajed123&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
@@ -22,7 +30,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=abdulmajed123&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmajed123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdabdul.majed.1806) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-abdul-majed-523977324) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulmajed5618@gmail.com) 
 
 
 
