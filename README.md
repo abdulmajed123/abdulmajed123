@@ -2,12 +2,6 @@
 
 <img src="https://i.ibb.co/k2W9qr6T/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner.png" width="100%" height="620px" />
 
-
-
-
-
-
-
 <p align="center"></p> I'm a passionate learner on my journey to becoming a Fullstack MERN Developer. Currently, I’m focusing on mastering JavaScript, React, Node.js, Express.js,  and MongoDB by building practical, real-world projects.<p/>
 
   # 💫 About Me:
