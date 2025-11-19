@@ -1,8 +1,7 @@
-# Hi there 👋, I'm Abdul Majed
+<p align="center"># Hi there 👋, I'm Abdul Majed </p>>
 I'm a passionate learner on my journey to becoming a Fullstack MERN Developer. Currently, I’m focusing on mastering JavaScript, React, Node.js, Express.js,  and MongoDB by building practical, real-world projects.
 
 
-Skills: HTML / CSS/JAVASCRIPT/REACT/EXPRESS JS/NODE JS/MONGDB
 
 - 🔭 I’m currently working on A MERN-based fullstack project. 
 - 🌱 I’m currently learning JavaScript, React, Node.js, Express.js, MongoDB, REST APIs, and authentication (JWT & Firebase). 
