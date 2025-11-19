@@ -23,14 +23,7 @@ Skills: HTML / CSS/JAVASCRIPT/REACT/EXPRESS JS/NODE JS/MONGDB
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmajed123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmajed123)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulmajed123&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/abdulmajed123)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=abdulmajed123)  
 
 
 
