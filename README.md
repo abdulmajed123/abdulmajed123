@@ -1,25 +1,6 @@
 # <p align="center"> Hi there 👋, I'm Abdul Majed </p>
 
-
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://i.ibb.co/k2W9qr6T/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner.png)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
-
 <p align="center"></p> I'm a passionate learner on my journey to becoming a Fullstack MERN Developer. Currently, I’m focusing on mastering JavaScript, React, Node.js, Express.js,  and MongoDB by building practical, real-world projects.<p/>
-
-
-
-
 
   # 💫 About Me:
 🔭 I’m currently working on A MERN-based fullstack project.<br>🌱 I’m currently learning JavaScript, React, Node.js, Express.js, MongoDB, REST APIs, and authentication (JWT & Firebase).<br>👯 I’m looking to collaborate on Beginner-friendly MERN projects, React components, or open-source contributions.<br>🤔 I’m looking for help with Improving backend logic, API security, and best practices in fullstack development.<br>💬 Ask me about JavaScript basics, React components, TailwindCSS, Firebase Authentication, and building simple APIs.<br>📫 How to reach me: abdulmajed5618@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I break code fast, but I fix it even faster 😄
