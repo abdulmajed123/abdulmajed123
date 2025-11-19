@@ -1,5 +1,7 @@
 # <p align="center"> Hi there 👋, I'm Abdul Majed </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+MERN+Developer)](https://git.io/typing-svg)
+
 <p align="center"></p> I'm a passionate learner on my journey to becoming a Fullstack MERN Developer. Currently, I’m focusing on mastering JavaScript, React, Node.js, Express.js,  and MongoDB by building practical, real-world projects.<p/>
 
 
