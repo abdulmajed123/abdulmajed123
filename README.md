@@ -9,7 +9,7 @@
 <p align="center"></p> I'm a passionate learner on my journey to becoming a Fullstack MERN Developer. Currently, I’m focusing on mastering JavaScript, React, Node.js, Express.js,  and MongoDB by building practical, real-world projects.<p/>
 
 # Current Activities
-🔭 I’m currently working on A MERN-based fullstack project.<br>🌱 I’m currently learning JavaScript, React, Node.js, Express.js, MongoDB, REST APIs, and authentication (JWT & Firebase).<br>👯 I’m looking to collaborate on Beginner-friendly MERN projects, React components, or open-source contributions.<br>🤔 I’m looking for help with Improving backend logic, API security, and best practices in fullstack development.<br>💬 Ask me about JavaScript basics, React components, TailwindCSS, Firebase Authentication, and building simple APIs.<br>📫 How to reach me: abdulmajed5618@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I break code fast, but I fix it even faster 😄
+🔭 I’m currently working on A MERN-based fullstack project.<br>🌱 I’m currently learning next.js.<br>👯 I’m looking to collaborate on Beginner-friendly MERN projects, React components, or open-source contributions.<br>🤔 I’m looking for help with Improving backend logic, API security, and best practices in fullstack development.<br>💬 Ask me about JavaScript basics, React components, TailwindCSS, Firebase Authentication, and building simple APIs.<br>📫 How to reach me: abdulmajed5618@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I break code fast, but I fix it even faster 😄
 
 
 
