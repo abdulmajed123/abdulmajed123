@@ -1,5 +1,7 @@
 # <p align="center"> Hi there 👋, I'm Abdul Majed </p>
 
+https://i.ibb.co.com/k2W9qr6T/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner.png
+
 
 <p align="center"></p> I'm a passionate learner on my journey to becoming a Fullstack MERN Developer. Currently, I’m focusing on mastering JavaScript, React, Node.js, Express.js,  and MongoDB by building practical, real-world projects.<p/>
 
