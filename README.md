@@ -1,4 +1,4 @@
-## Hi there, I'm Abdul Majed 👋
+# Hi there, I'm Abdul Majed 👋
 
 
 **abdulmajed123/abdulmajed123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
