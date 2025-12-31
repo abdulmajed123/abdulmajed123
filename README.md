@@ -1,6 +1,6 @@
 
 
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D5616AQGXhY1DyqOzdw/profile-displaybackgroundimage-shrink_350_1400/B56Zqa7k6LJQAc-/0/1763535909974?e=1765411200&v=beta&t=wfaFutGipuH8wQpXUWrh4OC8KY-skNoNEHSc61JDsqw)
+![I am GitHub Readme Generator's creator](https://github.com/abdulmajed123/abdulmajed123/blob/9b67e7de9be4d097ca03060315a5e14b30f646ee/Black%20Modern%20Personal%20LinkedIn%20Banner.jpg)
 
 
 # <p align="center"> Hi there 👋, I'm Abdul Majed </p>
