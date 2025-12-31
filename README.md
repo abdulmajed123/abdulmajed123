@@ -4,7 +4,7 @@
 
 
 # <p align="center"> Hi there 👋, I'm Abdul Majed <br>Mern Stack Developer</p>
-# <p align="center"> Mern Stack Developer </p>
+
 
   # 💫 About Me:
 <p align="center"></p> I'm a passionate learner on my journey to becoming a Fullstack MERN Developer. Currently, I’m focusing on mastering JavaScript, React, Node.js, Express.js,  and MongoDB by building practical, real-world projects.<p/>
