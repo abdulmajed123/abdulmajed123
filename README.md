@@ -7,7 +7,7 @@
 
 
   # 💫 About Me:
-<p align="center"></p> I'm a passionate learner on my journey to becoming a Fullstack MERN Developer. Currently, I’m focusing on mastering JavaScript, React, Node.js, Express.js,  and MongoDB by building practical, real-world projects.<p/>
+<p align="center"></p> I'm a passionate learner on my journey to becoming a Fullstack MERN Developer. Currently, I’m focusing on mastering JavaScript, React, Next.js, Typescript, Node.js, Express.js,  and MongoDB by building practical, real-world projects.<p/>
 
 # Current Activities
 🔭 I’m currently working on an MERN-based full-stack project.<br>🌱 I’m currently learning Next.js and Typescript.<br>👯 I’m looking to collaborate on Beginner-friendly MERN projects, React components, or open-source contributions.<br>🤔 I’m looking for help with Improving backend logic, API security, and best practices in full-stack development.<br>💬 Ask me about JavaScript basics, React components, TailwindCSS, Firebase Authentication, and building simple APIs.<br>📫 How to reach me: abdulmajed5618@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I break code fast, but I fix it even faster 😄
